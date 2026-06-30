@@ -282,3 +282,13 @@ lens sorts the methods of neuroscience and interpretability into those that genu
 understanding and those that, however powerful, deepen only knowledge about. The discipline this
 demands is modest but transformative: *say what you recovered, and how you validated it — and reserve
 the word "understand" for the cases that earn it.*
+
+A deeper development (Part IX) sharpens each of these claims: it defines the **ι-machine** — the
+minimal model *closed under intervention*, the causal analogue of the ε-machine of computational
+mechanics — so that the knowledge/understanding gap becomes a complexity gap `C_ι − C_μ`; it proves
+an **indeterminacy theorem** locating the *resolution limit* of understanding at the agent's
+intervention algebra (realism up to that limit); and it proposes the **Genesis Principle** — that a
+system's intelligibility is a *fossil of how it was built*, so that designed artifacts inherit their
+designer's decomposable structure while evolved and trained systems need not, making the mechanistic
+interpretability of neural networks structurally more like reverse-engineering biology than like
+reverse-engineering a microprocessor.
