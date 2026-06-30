@@ -31,6 +31,7 @@ generative principle) and ask whether that object is *sufficient* for scientific
 
 | File | Contents |
 |------|----------|
+| `parts/part0_epistemology_of_knowledge.md` | **Part 0** — A *critical* history of epistemology: the problem of knowledge from Plato/Aristotle through empiricism, Kant, positivism, Popper/Kuhn/Lakatos/Feyerabend, Quine, Gettier and the analysis of knowledge, virtue/social/naturalized epistemology, French *épistémologie historique* (Bachelard/Canguilhem/Foucault), knowing-how (Ryle/Polanyi), and the contemporary **epistemology of understanding** (Kvanvig/Elgin/Pritchard/Grimm/de Regt/Khalifa) — read for the *knowledge-that vs. understanding* thread |
 | `parts/part1_literature_review.md` | **Part I** — Major theories of scientific understanding across all source disciplines |
 | `parts/part2_notions_of_understanding.md` | **Part II** — Survey of every proposed notion of "understanding" |
 | `parts/part3_taxonomy_of_goals.md` | **Part III** — Taxonomy separating prediction / compression / explanation / mechanistic understanding / control etc. |
@@ -44,6 +45,7 @@ generative principle) and ask whether that object is *sufficient* for scientific
 | `tables/frameworks_comparison.md` | Comparison table of all frameworks of understanding |
 | `tables/methods_comparison.md` | Comparison table of all methods (epistemic object recovered, understanding vs. knowledge) |
 | `tables/notions_taxonomy.md` | Taxonomy table of notions of understanding |
+| `methods/concrete_method.md` | **A concrete method** — an 8-phase operational protocol for *understanding* a system (declare the intervention algebra → baseline knowledge-about → hypothesize an ι-machine → intervene → score `(KA, UO)` → decomposability profile → honest report), with full worked instantiations for **a brain** (a V1 microcircuit) and **an LLM** (a transformer behavior) |
 | `paper/position_paper.md` | **Position paper / Perspective** (submission-grade, Nature Reviews / PNAS style): significance statement, abstract, 13 sections, 3 Boxes, 3 figure specifications, Table 1, limitations, and methods/availability stubs |
 | `references.md` | Consolidated bibliography (seminal + recent) |
 | `open_problems.md` | Discussion of open problems |
@@ -52,7 +54,9 @@ generative principle) and ask whether that object is *sufficient* for scientific
 
 - For the **argument and the proposed framework**, read `paper/position_paper.md` first, then
   `parts/part6_framework.md` and `parts/part4_criteria.md`.
-- For the **scholarly grounding**, read Parts I–III.
+- For the **deep historical grounding** in the theory of knowledge, read `parts/part0_epistemology_of_knowledge.md` (it motivates the whole knowledge-about / understanding-of distinction).
+- For the **scholarly grounding** in scientific understanding specifically, read Parts I–III.
+- For **how to actually do it** on a real system, read `methods/concrete_method.md` (the brain and LLM walkthroughs).
 - For the **operationalization**, read Parts IV–VII and the tables.
 - For **the application target** (neuroscience and interpretability), read Part VIII.
 - For the **original theoretical contribution and reflections** (the ι-machine, the indeterminacy

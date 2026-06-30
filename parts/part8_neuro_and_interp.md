@@ -8,6 +8,17 @@ brain/network and are routinely over-read as delivering *understanding of* it.
 
 The compact verdicts are in `tables/methods_comparison.md`; this file is the reasoning.
 
+**A rigor note before we start.** Classifying a *method* (or, more precisely, a *use* of a method) by
+its epistemic object is **not** classifying the *field*. Neuroscience is among the most mechanistic of
+sciences: the Hodgkin–Huxley model, channel/synapse biophysics, and normative coding theories are
+paradigm cases of *understanding of* the brain. The point of this Part is the opposite of a put-down:
+it is that a single discipline contains methods spanning the whole `(KA, UO)` plane, and that the
+*correlational, data-intensive* posture — which is prominent in some current work but is neither
+unique to neuroscience nor coextensive with it — is the part that gets over-read. Placement is also
+**use-dependent**: the verdicts below describe a method's *typical, stand-alone* use; the same
+technique, combined with intervention and held to a faithfulness test, moves up the `UO` axis (we flag
+these crossings explicitly).
+
 ---
 
 ## A. Neuroscience methods

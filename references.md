@@ -277,3 +277,67 @@ work; verify exact pages/editions before formal submission.)
 - Borges, J. L. (1946). On exactitude in science. *(The 1:1 map — the understanding horizon.)*
 - Cao, R., & Yamins, D. (2024). Explanatory models in neuroscience: distinguishing the roles of
   prediction and understanding. *(Prediction vs. understanding in neural models.)*
+
+## Part 0 — Epistemology of knowledge (critical history)
+- Plato. *Theaetetus*; *Meno*; *Republic* (Book V–VII, the divided line). (Knowledge vs. true opinion; JTB germ; *aitias logismos*.)
+- Aristotle. *Posterior Analytics*; *Nicomachean Ethics* VI; *Metaphysics* (four causes). (*Epistēmē* through causes; *to dioti* vs. *to hoti*; epistēmē/technē/phronēsis.)
+- Descartes, R. (1641). *Meditations on First Philosophy*. (Method, indubitability, clear & distinct ideas.)
+- Spinoza, B. (1677). *Ethics* (more geometrico). (Understanding sub specie aeternitatis.)
+- Leibniz, G. W. (1714). *Monadology*; writings on the principle of sufficient reason and the characteristica universalis. (Generative compression; simplest hypothesis.)
+- Locke, J. (1689). *An Essay Concerning Human Understanding*. (Tabula rasa; nominal vs. real essences.)
+- Berkeley, G. (1710). *A Treatise Concerning the Principles of Human Knowledge*.
+- Hume, D. (1739/1748). *A Treatise of Human Nature*; *An Enquiry Concerning Human Understanding*. (Problem of induction; constant conjunction; critique of causation.)
+- Kant, I. (1781/1787). *Critique of Pure Reason*. (Copernican revolution; synthetic a priori; categories; phenomena/noumena.)
+- Comte, A. (1830–1842). *Cours de philosophie positive*. (Positive stage; laws over causes.)
+- Mach, E. (1883). *The Science of Mechanics*; (1886) *The Analysis of Sensations*. (Economy of thought; instrumentalism about atoms.)
+- Poincaré, H. (1902). *Science and Hypothesis*. (Conventionalism.)
+- Duhem, P. (1906). *The Aim and Structure of Physical Theory*. (Holism; under-determination — the Duhem–Quine thesis.)
+- Schlick, M.; Carnap, R.; Neurath, O. (1929). *The Scientific Conception of the World: The Vienna Circle*. (Logical positivism; verifiability.)
+- Carnap, R. (1928). *The Logical Structure of the World (Aufbau)*; (1950) *Logical Foundations of Probability*.
+- Hempel, C. G., & Oppenheim, P. (1948). Studies in the logic of explanation. *Philosophy of Science*, 15(2), 135–175. (D-N model; the symmetry thesis — see Part I.)
+- Bromberger, S. (1966). Why-questions. In *Mind and Cosmos* (Colodny, ed.). (The flagpole asymmetry.)
+- Popper, K. (1934/1959). *The Logic of Scientific Discovery*; (1963) *Conjectures and Refutations*. (Falsifiability; verisimilitude; severe tests.)
+- Kuhn, T. S. (1962/1970). *The Structure of Scientific Revolutions*. (Paradigms; incommensurability; theory-ladenness.)
+- Lakatos, I. (1970). Falsification and the methodology of scientific research programmes. In Lakatos & Musgrave (Eds.), *Criticism and the Growth of Knowledge*. (Hard core / protective belt; progressive vs. degenerating.)
+- Feyerabend, P. (1975). *Against Method*. (Methodological pluralism; "anything goes".)
+- Quine, W. V. O. (1951). Two dogmas of empiricism. *Philosophical Review*, 60(1), 20–43. (Analytic/synthetic; holism.)
+- Quine, W. V. O. (1969). Epistemology naturalized. In *Ontological Relativity and Other Essays*. Columbia UP.
+- Gettier, E. (1963). Is justified true belief knowledge? *Analysis*, 23(6), 121–123.
+- Goldman, A. (1967). A causal theory of knowing. *Journal of Philosophy*, 64(12), 357–372.
+- Goldman, A. (1979). What is justified belief? In *Justification and Knowledge* (Pappas, ed.). (Reliabilism.)
+- Nozick, R. (1981). *Philosophical Explanations* (Ch. 3: knowledge and tracking; sensitivity).
+- Sosa, E. (2007). *A Virtue Epistemology: Apt Belief and Reflective Knowledge*. Oxford UP.
+- Zagzebski, L. (1996). *Virtues of the Mind*. Cambridge UP; (2001) Recovering understanding. In *Knowledge, Truth, and Duty* (Steup, ed.).
+- Williamson, T. (2000). *Knowledge and Its Limits*. Oxford UP. (Knowledge-first; the unanalyzability of knowledge.)
+- BonJour, L. (1985). *The Structure of Empirical Knowledge*. (Clairvoyant counterexamples to reliabilism.)
+- Kim, J. (1988). What is "naturalized epistemology"? *Philosophical Perspectives*, 2, 381–405. (The normativity objection.)
+- Ryle, G. (1949). *The Concept of Mind*. (Knowing-how vs. knowing-that.)
+- Stanley, J., & Williamson, T. (2001). Knowing how. *Journal of Philosophy*, 98(8), 411–444. (Intellectualist rejoinder.)
+- Polanyi, M. (1958). *Personal Knowledge*; (1966) *The Tacit Dimension*. (Tacit knowing; "we know more than we can tell".)
+- Bachelard, G. (1938). *La formation de l'esprit scientifique*. (Obstacle épistémologique; rupture.)
+- Canguilhem, G. (1943/1966). *Le normal et le pathologique*. (Historical constitution of biological concepts.)
+- Foucault, M. (1966). *Les mots et les choses*; (1969) *L'archéologie du savoir*. (Épistémè; historical a priori.)
+- Hacking, I. (1983). *Representing and Intervening*. Cambridge UP. (Intervention/experiment as route to realism — bridges to causal inference.)
+
+### The epistemology of understanding (contemporary; see also Part II)
+- Kvanvig, J. (2003). *The Value of Knowledge and the Pursuit of Understanding*. Cambridge UP. (Understanding as holistic, luck-insensitive.)
+- Elgin, C. (2007). Understanding and the facts. *Philosophical Studies*, 132(1), 33–42; (2017) *True Enough*. MIT Press. (Felicitous falsehoods; non-factive understanding.)
+- Pritchard, D. (2009). Knowledge, understanding and epistemic value. *Royal Institute of Philosophy Supplement*, 64, 19–43; (2014) Knowledge and understanding. In *Virtue Epistemology Naturalized*.
+- Grimm, S. (2006). Is understanding a species of knowledge? *British Journal for the Philosophy of Science*, 57(3), 515–535; (2011) Understanding. In *The Routledge Companion to Epistemology*.
+- de Regt, H. (2017). *Understanding Scientific Understanding*. Oxford UP. (Pragmatic-contextual; intelligibility as skill-laden.)
+- Khalifa, K. (2017). *Understanding, Explanation, and Scientific Knowledge*. Cambridge UP. (Understanding reduces to explanatory knowledge — the principal dissent.)
+- Hills, A. (2016). Understanding why. *Noûs*, 50(4), 661–688. (Understanding-why as a cluster of abilities — cognitive control.)
+
+## Concrete method — protocol references (additional)
+- Geiger, A., Lu, H., Icard, T., & Potts, C. (2021). Causal abstractions of neural networks. *NeurIPS*. (Interchange interventions; causal abstraction.)
+- Geiger, A., et al. (2023/2024). Finding alignments between interpretable causal variables and distributed neural representations (DAS). *CLeaR*. (Distributed alignment search.)
+- Chan, L., et al. (2022). Causal scrubbing: a method for rigorously testing interpretability hypotheses. *Alignment Forum / Redwood Research*.
+- Wang, K., et al. (2023). Interpretability in the wild: a circuit for indirect object identification in GPT-2 small. *ICLR*.
+- Nanda, N., et al. (2023). Progress measures for grokking via mechanistic interpretability. *ICLR*. (Modular addition circuit.)
+- Meng, K., et al. (2022). Locating and editing factual associations in GPT (ROME). *NeurIPS*; (2023) Mass-editing memory in a transformer (MEMIT). *ICLR*.
+- Vig, J., et al. (2020). Causal mediation analysis for interpreting neural NLP. *NeurIPS*. (Activation/path patching lineage.)
+- Beckers, S., & Halpern, J. Y. (2019). Abstracting causal models. *AAAI*. (Causal abstraction across levels.)
+- Boyden, E., et al. (2005). Millisecond-timescale, genetically targeted optical control of neural activity. *Nature Neuroscience*. (Optogenetics — the brain intervention algebra.)
+- Marshel, J. H., et al. (2019). Cortical layer–specific critical dynamics triggering perception. *Science*. (Two-photon holographic stimulation; single-cell-resolution `𝓘`.)
+- Carandini, M., & Heeger, D. J. (2012). Normalization as a canonical neural computation. *Nature Reviews Neuroscience*. (Divisive normalization — the V1 mechanism hypothesis.)
+- Marr, D. (1982). *Vision*. (Three levels of analysis — Phase 1 of the protocol.)
