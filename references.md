@@ -250,3 +250,30 @@ work; verify exact pages/editions before formal submission.)
 - Thompson, A. (1997). An evolved circuit, intrinsic in silicon, entwined with physics. *ICES*.
 - Räuker, T., et al. (2023). Toward transparent AI: a survey on interpreting the inner structures of
   deep neural networks. *IEEE SaTML*.
+
+## Part IX — deep theory & original reflections (additional)
+- Crutchfield, J. P. (2012). Between order and chaos. *Nature Physics*, 8(1), 17–24.
+- Crutchfield, J. P., & Young, K. (1989). Inferring statistical complexity. *Phys. Rev. Lett.*, 63,
+  105–108. *(ε-machine; statistical complexity — basis for the ι-machine analogue.)*
+- Shalizi, C. R., & Crutchfield, J. P. (2001). Computational mechanics: pattern and prediction,
+  structure and simplicity. *J. Statistical Physics*, 104, 817–879.
+- Fritz, T. (2020). A synthetic approach to Markov kernels, conditional independence and theorems on
+  sufficient statistics. *Advances in Mathematics*, 370, 107239. *(Markov/categorical probability —
+  basis for the categorical modeling relation.)*
+- Cho, K., & Jacobs, B. (2019). Disintegration and Bayesian inversion via string diagrams. *Math.
+  Structures in Computer Science*, 29(7), 938–971.
+- Kashtan, N., & Alon, U. (2005). Spontaneous evolution of modularity and network motifs. *PNAS*,
+  102(39), 13773–13778. *(Modularity-for-evolvability — Genesis Principle.)*
+- Clune, J., Mouret, J.-B., & Lipson, H. (2013). The evolutionary origins of modularity. *Proc. R.
+  Soc. B*, 280(1755), 20122863. *(Cost-of-connections pressure for modularity.)*
+- Wagner, G. P., Pavlicev, M., & Cheverud, J. M. (2007). The road to modularity. *Nature Reviews
+  Genetics*, 8(12), 921–931.
+- Csete, M. E., & Doyle, J. C. (2002). Reverse engineering of biological complexity. *Science*,
+  295(5560), 1664–1669. *(Robustness, modularity, and protocols in evolved systems.)*
+- Lipson, H., Pollack, J. B., & Suh, N. P. (2002). On the origin of modular variation. *Evolution*,
+  56(8), 1549–1556.
+- Edelman, G. M., & Gally, J. A. (2001). Degeneracy and complexity in biological systems. *PNAS*,
+  98(24), 13763–13768. *(Degeneracy/distributed realization — null hypothesis for evolved systems.)*
+- Borges, J. L. (1946). On exactitude in science. *(The 1:1 map — the understanding horizon.)*
+- Cao, R., & Yamins, D. (2024). Explanatory models in neuroscience: distinguishing the roles of
+  prediction and understanding. *(Prediction vs. understanding in neural models.)*

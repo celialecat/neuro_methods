@@ -109,3 +109,30 @@ what a solution would look like in the framework's terms (Part VI).
     *understood*? This forces the question of whether understanding is essentially *human*-agent-
     relative or can be *agent-neutral* — directly relevant to automating interpretability and
     science itself.
+
+## Raised by Part IX (deep theory)
+
+21. **Computing the ι-machine.** The ι-machine (Part IX §1) is well-defined but, like the ε-machine,
+    generally hard to infer — and harder, since it needs interventional sampling. Is there a tractable
+    estimator of `C_ι` (or of the gap `C_ι − C_μ`) for realistic systems, and a state-merging
+    algorithm under interventions analogous to CSSR for ε-machines?
+
+22. **Testing the Genesis Principle.** The Provenance–Decomposability prediction (Part IX §4.3) —
+    that achievable mechanistic faithfulness orders as design > regularized optimization >
+    unconstrained optimization for behavior-matched systems — is runnable on the Part-VII suite but
+    has not been run. Does it hold, and where exactly does the ordering break?
+
+23. **Interpretability-by-construction.** If intelligibility is imprinted by the generator, *which*
+    training-time pressures (modularity priors, bottlenecks, sparsity, curricula) most raise post-hoc
+    `F` per unit of capability lost? Is there a quantifiable intelligibility/performance trade-off
+    (an analogue of the rate–distortion curve)?
+
+24. **Locating the understanding horizon.** Are there complex systems (brains, frontier models) for
+    which *no* closed coarse-graining brings `C_ι` within a bounded agent's variety `V(A)`? A
+    constructive criterion for "beyond the horizon at level L" — versus "we just lack the right
+    level" — would turn a conjecture into a decidable property.
+
+25. **Computing human-graspable quotients.** If an automated system holds a faithful ι-machine, can we
+    *algorithmically* compute the maximal quotient that remains 𝓘-closed *and* fits human variety/
+    intelligibility constraints? This is the formal statement of "automated interpretability as
+    translation" (Part IX §5.4).
