@@ -44,7 +44,7 @@ generative principle) and ask whether that object is *sufficient* for scientific
 | `tables/frameworks_comparison.md` | Comparison table of all frameworks of understanding |
 | `tables/methods_comparison.md` | Comparison table of all methods (epistemic object recovered, understanding vs. knowledge) |
 | `tables/notions_taxonomy.md` | Taxonomy table of notions of understanding |
-| `paper/position_paper.md` | **Position paper** (Nature Reviews / PNAS style) presenting the framework |
+| `paper/position_paper.md` | **Position paper / Perspective** (submission-grade, Nature Reviews / PNAS style): significance statement, abstract, 13 sections, 3 Boxes, 3 figure specifications, Table 1, limitations, and methods/availability stubs |
 | `references.md` | Consolidated bibliography (seminal + recent) |
 | `open_problems.md` | Discussion of open problems |
 
