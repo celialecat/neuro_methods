@@ -43,9 +43,10 @@ determined only up to the resolution of the available interventions (T3). We giv
 that supports understanding — the **ι-machine**, the intervention-closed analogue of the ε-machine —
 so that the gap becomes a complexity difference `C_ι − C_μ`. We propose **benchmarks with known
 ground-truth mechanism** and a **decomposability profile** that reports, rather than assumes,
-hierarchy. Applied to neuroscience and to mechanistic interpretability, the framework splits both
-fields identically into a large knowledge-about arm, routinely over-read as understanding, and a
-smaller understanding arm distinguished by intervention, faithfulness, and level. Finally, the
+hierarchy. Applied to neuroscience and to mechanistic interpretability, the framework sorts the
+*methods* of each field (not the fields themselves) into a knowledge-about arm — often over-read as
+understanding — and an understanding arm distinguished by intervention, faithfulness, and level.
+Finally, the
 **Genesis Principle** explains *why* some complex systems are intelligible and others are not:
 intelligibility is a fossil of construction, so that designed artifacts inherit a decomposable
 structure that evolved and trained systems need not — making the interpretability of neural networks
@@ -65,20 +66,33 @@ and representational achievement as a proxy for understanding: if our models are
 we are coming to understand the systems they model.
 
 Two thought experiments warn that the inference is unsafe. Lazebnik (2002) asked whether a biologist,
-equipped with the methods of molecular biology, could fix a radio; Jonas and Kording (2017) asked
-whether a neuroscientist, equipped with the methods of systems neuroscience, could understand a
-microprocessor. Both took a system understood *completely* because it was engineered, generated the
-kinds of data their fields collect, and applied the field's standard analyses. The results — tuning
-curves, lesion effects, "functional connectivity", low-dimensional projections — *look* like insight
-but do **not** reconstruct the known architecture. A method can be maximally successful by a field's
-own metrics and recover no mechanism at all.
+applying the *data-intensive, correlational analytic style* then ascendant in molecular biology,
+could fix a radio; Jonas and Kording (2017) applied a battery of *large-scale, correlational systems-
+neuroscience analyses* to a microprocessor. Both took a system understood *completely* because it was
+engineered, generated the kind of high-throughput data such analyses consume, and applied them. The
+results — tuning curves, lesion effects, "functional connectivity", low-dimensional projections —
+*look* like insight but do **not** reconstruct the known architecture. A method can be maximally
+successful by these analyses' own metrics and recover no mechanism at all.
 
-This is not a complaint about any one technique, nor a counsel of despair. It is a diagnosis of a
-**category error**: conflating the epistemic goal a method actually serves with the goal we ascribe
-to it. The aim of this Perspective is to dissolve that error by making the distinction it rests on
-*precise, measurable, and enforceable*, and to do so in a way that transfers to the two fields the
-question ultimately targets — neuroscience and the mechanistic interpretability of artificial neural
-networks.
+A clarification is essential here, because it is easily — and consequentially — garbled. **The target
+of the critique is a *style of analysis*, not a discipline.** "Data-intensive, correlational analysis"
+is a methodological posture (fit, decode, correlate, project, describe) that recurs across genomics,
+ecology, economics, and machine learning, and which happens to be prominent in *parts* of
+neuroscience. It is *not* a synonym for neuroscience. Neuroscience also contains one of science's
+most successful mechanistic traditions — the Hodgkin–Huxley action potential, the biophysics of
+channels and synapses, normative efficient- and predictive-coding accounts that *derive* receptive
+fields, perturbation-validated circuit dynamics. Jonas and Kording's point is precisely that *one
+arm* of the field's toolkit, applied alone, fails on a known mechanism; it is not that neuroscience as
+such is incapable of mechanism. Conflating the analytic style with the field would both libel the
+field and miss the argument, which is about goals of methods, not reputations of disciplines (§10
+makes the intra-field split explicit).
+
+This is therefore not a complaint about any one technique, nor a counsel of despair. It is a diagnosis
+of a **category error**: conflating the epistemic goal a method actually serves with the goal we
+ascribe to it. The aim of this Perspective is to dissolve that error by making the distinction it
+rests on *precise, measurable, and enforceable*, and to do so in a way that transfers to the two
+fields the question ultimately targets — neuroscience and the mechanistic interpretability of
+artificial neural networks.
 
 Our thesis is a single sentence: **methods that improve prediction, representation, compression, or
 accuracy produce *knowledge about* a system; understanding *of* a system additionally requires
@@ -449,7 +463,16 @@ framework would be refuted.
 ## 10. Application: neuroscience and interpretability split the same way
 
 Applying the `(KA, UO)` lens (Part VIII) yields a striking, domain-independent regularity: in **both**
-fields the methods fall into two arms (Fig. 3).
+fields the methods fall into two arms (Fig. 3). Two cautions keep this rigorous. First, the split is
+over **methods and their uses, not over the fields**: that some neuroscience analyses sit in the
+knowledge-about arm is *not* a claim that neuroscience is a knowledge-about field — it is among the
+most mechanistic of sciences (§1), and its biophysical/normative tradition anchors the understanding
+arm below. Second, placement is **use-dependent, not intrinsic**: the same technique migrates between
+arms depending on how it is deployed. Representational similarity analysis *used alone* is descriptive
+(`KA`); the same RSA used to *adjudicate between mechanistic models under perturbation* contributes to
+`UO`. A sparse autoencoder scored by reconstruction is `KA`; the same SAE whose features are validated
+by activation patching contributes to `UO`. The arms below therefore label *typical uses*, and the
+operative question is always the validation regime, not the technique's name.
 
 - **A knowledge-about arm** (high `KA`, low `UO`, routinely over-read as understanding): fMRI
   localization, neural decoding, representational similarity analysis used alone, network-graph
@@ -495,6 +518,18 @@ achieve it are precisely the interventional ones, against the Genesis-Principle 
    that includes a strong predictor which *fails* the mechanism tests can demonstrate that a method
    recovers understanding rather than prediction; varying the construction process tests the Genesis
    Principle and tells us how to *build* intelligible systems.
+
+These recommendations are consolidated into an explicit **eight-phase protocol** — fix the level and
+explanandum → declare the intervention algebra → build and *label* the knowledge-about baseline →
+hypothesize a minimal mechanism (a candidate ι-machine) → intervene (ablation/sufficiency/interchange) →
+score `(KA, UO)` with gating → report a decomposability profile → state residual indeterminacy — with
+fully worked instantiations for a cortical microcircuit and for a transformer behavior (companion
+`methods/concrete_method.md`). The protocol's invariant is the commuting square of Box 2: a claim of
+understanding is licensed only by a model whose predictions survive intervention at a stated level. The
+historical pedigree of the knowledge-about / understanding-of distinction the protocol enforces — from
+Aristotle's *to dioti* through Hume's induction problem and the failure of the positivist
+prediction-explanation symmetry to the contemporary epistemology of understanding — is traced in the
+companion `parts/part0_epistemology_of_knowledge.md`.
 
 ---
 
